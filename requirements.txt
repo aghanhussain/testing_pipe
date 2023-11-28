@@ -1,0 +1,9 @@
+numpy 
+pandas 
+matplotlib
+flask
+python-dotenv
+mysql-connector-python
+scikit-learn
+pymysql==1.1.0
+
